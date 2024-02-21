@@ -1,0 +1,35 @@
+header {
+  background-color: #294f2d ;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  justify-content: left;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+h2{
+  padding: 100px 100px 100px 100px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+}
+
+nav {
+  justify-content: end;
+  padding: 4px;
+  background-color: #294f2d;
+  width: 100%;
+}
+
+nav a {
+  justify-content: end;
+  padding: 0.5rem 1rem;
+  color: white;
+}
+
+body {
+  background-image: url("https://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg");
+  height: auto;
+}
